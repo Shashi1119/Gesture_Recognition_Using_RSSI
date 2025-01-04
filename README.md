@@ -114,5 +114,3 @@ The dataset includes:
 - **Edge Device Deployment**: Optimize the model for real-time performance on edge devices.
 - **Hybrid Models**: Combine CNN and GRU for improved accuracy.
 - **Data Augmentation**: Introduce time-based variations for robustness.
-
---
