@@ -115,12 +115,4 @@ The dataset includes:
 - **Hybrid Models**: Combine CNN and GRU for improved accuracy.
 - **Data Augmentation**: Introduce time-based variations for robustness.
 
----
-
-## Contributors
-
-- **Shashidhar Reddy Ainala**
-- **Onkar Kunte**
-- **Venu Khare**
-- **Jainam Bhansali**
-
+--
